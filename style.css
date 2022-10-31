@@ -788,6 +788,7 @@ _:-ms-input-placeholder, :root .banner-shape { display: none; }
 	.middle-header .location,
 	.middle-header .phone {
 		margin-top: 20px;
+		text-align: center;
 	}
 	.middle-header .phone {
 		margin-left: 0px;
@@ -807,6 +808,32 @@ _:-ms-input-placeholder, :root .banner-shape { display: none; }
 		height: 130px;
 	}
 	
+	.middle-header .location h3,
+	.middle-header .phone h3 {
+		font-size: 23px;
+	}
+	.middle-header .location p,
+	.middle-header .phone p {
+		font-size: 15px;
+	}
+	.middle-header .phone {
+		margin-left: 10px;
+	}
+
+	.col-md-12.col-sm-12.no-padding img {
+		height: 33vh;
+		object-fit: cover;
+		object-position: -279px;
+	}
+
+	.main-carousel{
+		height: 33vh;
+	}
+
+	.slider-text{
+		top: 148px;
+		left: 2%;
+	}
 }
 
 /* -- min-width: 319 to max-width: 479 */
