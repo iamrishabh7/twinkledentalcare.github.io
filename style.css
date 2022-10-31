@@ -831,8 +831,20 @@ _:-ms-input-placeholder, :root .banner-shape { display: none; }
 	}
 
 	.slider-text{
-		top: 148px;
+		top: 68%;
 		left: 2%;
+	}
+
+	.slider-text h3{
+		font-size: 15px;
+	}
+
+	.slider-text h1{
+		display: none;
+	}
+
+	.slider-text h5{
+		display: none;
 	}
 }
 
@@ -843,7 +855,26 @@ _:-ms-input-placeholder, :root .banner-shape { display: none; }
 	.footer-main .widget-links ul li  {
 		width: 100%;
 	}
-	
+	.main-carousel{
+		height: 33vh;
+	}
+
+	.slider-text{
+		top: 68%;
+		left: 2%;
+	}
+
+	.slider-text h3{
+		font-size: 15px;
+	}
+
+	.slider-text h1{
+		font-size: 24px;
+	}
+
+	.slider-text h5{
+		display: none;
+	}
 	/* -- Page Banner */
 	
 }
