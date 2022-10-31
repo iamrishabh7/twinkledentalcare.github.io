@@ -869,7 +869,7 @@ _:-ms-input-placeholder, :root .banner-shape { display: none; }
 	}
 
 	.slider-text h1{
-		font-size: 24px;
+		display: none;
 	}
 
 	.slider-text h5{
