@@ -3,20 +3,16 @@
 	Created : 
 	Updated : 
 	Version: 1.0
-
 */
 
 /*
 	[Table of contents]
-
 	## Global
 		- Font Settings
 		- Padding/Margin
-
 	## Header
 		-- Top Header
 		-- Middle Header
-
 	## Footer
 		-- Contact Details
 		-- Footer Widget
@@ -821,9 +817,7 @@ _:-ms-input-placeholder, :root .banner-shape { display: none; }
 	}
 
 	.col-md-12.col-sm-12.no-padding img {
-		height: 33vh;
 		object-fit: cover;
-		object-position: -279px;
 	}
 
 	.main-carousel{
