@@ -821,9 +821,7 @@ _:-ms-input-placeholder, :root .banner-shape { display: none; }
 	}
 
 	.col-md-12.col-sm-12.no-padding img {
-		height: 33vh;
 		object-fit: cover;
-		//object-position: -279px;
 	}
 
 	.main-carousel{
